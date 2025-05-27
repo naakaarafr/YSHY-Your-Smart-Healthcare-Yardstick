@@ -1,4 +1,4 @@
-## 🩺YSHY – Your Smart Healthcare Yardstick
+# 🩺YSHY – Your Smart Healthcare Yardstick
 
 A secure, bilingual (English/Hindi) Streamlit app powered by Gemini, designed to empower women in rural areas to privately assess and manage intimate health concerns.
 
