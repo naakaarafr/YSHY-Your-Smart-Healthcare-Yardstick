@@ -43,8 +43,8 @@ A secure, bilingual (English/Hindi) Streamlit app powered by Gemini, designed to
 1. **Clone the repository**
 
    ```bash
-   git clone https://github.com/<your-username>/YSHY.git
-   cd YSHY
+   git clone https://github.com/naakaarafr/YSHY-Your-Smart-Healthcare-Yardstick.git
+   cd YSHY-Your-Smart-Healthcare-Yardstick
    ```
 2. **Create a virtual environment**
 
