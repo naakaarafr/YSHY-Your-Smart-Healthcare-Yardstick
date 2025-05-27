@@ -1,0 +1,7 @@
+streamlit>=1.20.0
+google-generative-ai>=0.2.0
+python-dotenv>=1.0.0
+pandas>=2.0.0
+plotly>=5.0.0
+pytz>=2023.3
+Pillow>=9.0.0
